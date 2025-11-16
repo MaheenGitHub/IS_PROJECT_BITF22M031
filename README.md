@@ -1,4 +1,5 @@
-# IS_PROJECT_BITF22M031
+Project Documentation Link: https://docs.google.com/document/d/1V1WGe9wd65V4sXnCw4qJLSocM-_LVWIglHKqBgMEaC0/edit?usp=sharing
+
 🛡️ Adversarial Machine Learning Project Report: CNN Robustness on MNIST
 
 
